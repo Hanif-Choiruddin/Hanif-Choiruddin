@@ -1,3 +1,5 @@
+<h1 align="center"> Hi there, I'm Zein 👋 </h1>
+
 - 👋 Hi, I’m Hanif Choiruddin
 - 🌱 I’m currently learning Python and R
 - 👯 I’m looking to collaborate as Data Analyst and Data Scientist
