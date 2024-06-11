@@ -9,6 +9,8 @@
 - 💬 Ask me about anything
 - 📫 How to reach me : realhanifchoiruddin@gmail.com
 
+## Education:
+1. [INSTITUT TEKNOLOGI SEPULUH NOPEMBER](https://www.its.ac.id) | Bachelor of Statistics | Surabaya `2021-Recently`
 <!---
 Hanif-Choiruddin/Hanif-Choiruddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
